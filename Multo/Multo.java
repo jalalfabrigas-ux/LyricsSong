@@ -1,4 +1,4 @@
-public class Kalapastangan {
+public class Multo {
     public static void main(String[] args) throws InterruptedException {
 
         // Each line + delay (milliseconds)
